@@ -1,4 +1,6 @@
 # Readme
-Discussion du développement que seul Yves peut répondre. Et donc nous aider.//
+Discussion du développement.
 
-Enfaite Yves est un boss je pense. Ligma?
+SWIFT SA MERE
+
+On commence à écrire en-dessous de cela si jamais il y a de la modif à faire bande de Kawaii.
